@@ -1,0 +1,97 @@
+.q{height: 800px;background-color:bisque;}
+.v,#w{padding-left: 200px;font-size: 40px;font-style: italic;padding-top: 50px; text-transform: uppercase;}
+#w{position: relative;bottom :80px}
+.e{width: 50px;background-color: white;}
+.x{font-size: x-large;font-style: normal;text-transform: lowercase;position: relative;bottom: 70px;position: relative;left: 100px;}
+.d{font-size: x-large;font-style: normal;text-transform: lowercase;position: relative;bottom: 80px;position: relative;left:100px}
+.r{background-color: red;color: white;transform: scale(2);position: relative;left: 160px;}
+.qq{width: 20px;height: 20px; color :yellow;}
+.tt{width: 20px;height: 20px;}
+.qq,.tt{display: inline;}
+.r{border-radius: 0px 20px 20px 20px; border: solid red; position: relative;bottom: 60px ;}
+.e{background-color: red;}
+.q{display: flex;justify-content: space-between;}
+.rr{background-color:white;height: 1000px;}
+.ww{background-color: white;height: 1000px;width: 900px;}
+.ee{width: 300px;height: 300px;}
+.tt{width: 300px;height: 500px;}
+.ee,.tt{display: block;}
+.ll{width: 300px;height: 700px;}
+.kk{width: 300px;height: 200px;}
+.ll,.kk{display: block;}
+.gh img{width: 300px;height: 300px;}
+.rr{display: flex;justify-content:center ;align-content: center ;margin-top: 300px;}
+#ss{text-align: center;color: grey;text-transform: uppercase; position: relative;top: 270px;}
+.ert{text-align: center;text-transform: uppercase;font-size: xx-large;position: relative;top: 280px;}
+p::selection{color:red;}
+.asd img{width:400;height: 300px;}
+.asd{background-color: white;}
+.kl{position: relative;left:140px;color: grey;}.
+
+.asd h2{position: relative;left:100px}
+.xx img{width: 400px;height:300px}
+.kelo{position: relative;left:140px ;color: grey;}
+.all{color: grey;}
+.xx h2{position: relative;left:100px ;}
+.mah img{width:400px;height: 300px;}
+.bi{position: relative;left: 140px;color: grey;}
+.adsf{color: grey;}
+.mah h2{position: relative;left:100px;}
+.klam{display: flex; justify-content: space-around;} 
+#oo{text-align: center;color: grey;}
+.ka{font-size: x-large; position: relative;left: 550px;font-style:italic ;text-transform: uppercase;}
+.dfe{font-size: x-large;position: relative;left:550px;color:  red ;font-style: italic; text-transform: uppercase;}
+.ham{height: 100px;width: 400px;background-color:beige;}
+.ham img{width:50px ;height: 50px;background-color: red;border-radius: 25px; position: relative;top: 20px;}
+.ham h3,.ham p{display: block;}
+.ham{display: flex;}
+.ooo{position: relative;left: 10px;}
+.ooo h2 { color: grey;}
+.ali{width: 400px;height:100px ;background-color:beige;}
+.ali img{width: 50px;height: 50px;background-color:red ;border-radius:25px ;position: relative;top: 20px;}
+.ali{display: flex;}
+.hoda{position: relative;left: 10px;}
+.hoda h2{color: grey;}
+.mona{width: 400px;height: 100px;background-color: beige;}
+.mona img{width: 50px;height: 50px;background-color: red;border: radius 25px; position: relative;top:20px}
+.mona{display: flex;}
+.hoho{position: relative;left: 10px;}
+.hoho h2{color:grey ;}
+.adel{width: 400px;height: 100px;background-color: beige;}
+.adel img{width: 50px;height: 50px;background-color: red;border-radius: 25px;position: relative;top: 20px;}
+.adel{display: flex;}
+.dola{position: relative;left: 10px;}
+.dola h2{ color: grey;}
+.baba{display: flex;justify-content: space-between;}
+.kasem{width:100%;height: 400px;background-color: white;}
+.hamdy,.gamal{display: inline;width: 300px;height: 30px;}
+.amira{width: 100%;height: 80px;}
+.gamal{position: relative;left: 730px;}
+#kamel{width: 200px;height: 50px;background-color: red;color: white;border-radius: 30px;position: relative;left:400px;position: relative;top: 80px;}
+.alaa{width: 100%;padding-bottom: 200px;}
+#bab{height: 1000px;background-color: black;}
+.www{width: 25%;height:200px; color: white;position: relative;top:50px ;;}
+.www h3{position: relative;left:130px;}
+.dad{width: 50p;height: 50px;}
+ .sara{display: flex;margin-left: 70px;} 
+ .omar{width: 50%;height: 200px;color:white ;position: relative;top: 100px;margin-left: 100px;}
+ .huda{background-color: red;color: white;}
+ .soh{display: flex;}
+ .wer{display: flex;justify-content: space-around;}
+ .goo{font-size:x-large ;}
+ .soad{width: 300px;height: 30px;}
+ .huda{width: 100px;}
+ .hos{display: flex;}
+ .mezo{width: 25%;color: white; position: relative;top:200px}
+ .atef{width: 50px;height: 50px;color: red;}
+ #bab{display: flex;}
+.omar{position: relative;bottom: 300px;position: relative;right: 100px;position: relative;left: 40px;position: relative;bottom: 50px;}
+.www{position: relative;left:30}
+.goo,.soh,.ft{position: relative;bottom: 40px;}
+.th,.hd,.cap{position: relative;bottom: 40px;}
+.www{margin-left: 60px;}
+.omar{position: relative;right: 30px;}
+@media (min-width: 450px) and (max-width: 900px) {.q{display: flex;flex-direction: column-reverse;}}
+@media (min-width: 901px) and (max-width: 1400px) {#bab{display: flex;flex-direction: column;}}
+@media (min-width: 450px) and (max-width: 900px) {.klam{display:flex;flex-wrap: wrap;}}
+@media (min-width: 450px) and (max-width: 900px) {.rr{display: flex;flex-direction: column;}}
